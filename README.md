@@ -21,7 +21,7 @@ Narzędzie automatycznie analizuje podany cel (adres IP lub domenę), odpowiedni
 
 Krok 1: Sklonuj repozytorium
 ```bash
-git clone [https://github.com/TWOJ_NICK/osint_scanner.git](https://github.com/TWOJ_NICK/osint_scanner.git)
+git clone [https://github.com/dawidnaessie/osint_scanner.git](https://github.com/dawidnaessie/osint_scanner.git)
 cd osint_scanner
 ```
 Krok 2: Utwórz i aktywuj wirtualne środowisko
